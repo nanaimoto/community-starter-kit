@@ -32,6 +32,9 @@ firstPRMergeComment: >
 
 # It is recommended to include as many gifs and emojis as possible!
 ```
+You can opt out of having the bot comment on first time pull requests, pull request merges, or new issues by not filling in a value for each app's respective field.
+
+For some inspiration about what kind of content to include in your `.github/config` files, check out [Electron's Configuration](https://github.com/electron/electron/blob/master/.github/config.yml).
 
 ### Example Messages
 
